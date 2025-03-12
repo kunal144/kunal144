@@ -17,21 +17,6 @@ A passionate frontend developer and pre-final year undergraduate student from In
 - **Duration**: Oct 2021 - Aug 2025  
 - **Relevant Courses**: Data Structures, Analysis Of Algorithms, Artificial Intelligence, Networking, Databases  
 
-## 💻 Projects
-
-### 🚗 Car Price Prediction using Linear Regression
-- **Brief**: This project involves developing a model that accurately estimates car prices based on features like mileage, age, and model by fitting a linear equation to the dataset.
-- **Technologies Used**: Linear Regression
-- **Aim**: To create a model that can predict car prices with high accuracy using linear regression techniques.
-
-### 📊 Sentimental Analysis Using Deep Learning
-- **Brief**: Developed a deep learning model for sentiment analysis by leveraging neural networks, preprocessing textual data, and training the model on sentiment-labeled datasets.
-- **Technologies Used**: RNNs, CNNs, Transformers, Tree-LSTMs, Ensemble Methods
-- **Aim**: To accurately detect and categorize sentiments in text, facilitating applications like opinion mining, customer feedback analysis, and sentiment-driven decision-making.
-
-### 🌍 Travellers
-- **Brief**: A travelers’ platform built with the MERN stack allowing users to connect with each other, share their travel journeys, and receive discounts for sharing photos of the hotels and restaurants they visited.
-- **Technologies Used**: MongoDB, Express.js, React, Node.js (MERN stack)
 
 ## 🛠️ Skills
 
